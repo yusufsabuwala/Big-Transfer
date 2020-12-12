@@ -17,4 +17,5 @@ It is a popular approach in deep learning where pre-trained models are used as t
 Example: A visual task
 In a visual task, the input is an image.
 It could be a classifier where there is a image of a lung and you have to point out if there is any abnormality in it.
-
+As we know these type of tasks are pretty much dominated by the Convolutional Neural Networks (CNNs) that take these images through many layers of convolutions.
+The residual networks are doing 
